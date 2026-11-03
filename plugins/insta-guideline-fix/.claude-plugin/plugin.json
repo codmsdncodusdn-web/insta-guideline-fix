@@ -1,0 +1,8 @@
+{
+  "name": "insta-guideline-fix",
+  "description": "릴스 스크립트, 영상, 카드뉴스를 메타 커뮤니티 규정에 맞게 고쳐 주는 스킬",
+  "version": "1.0.0",
+  "author": {
+    "name": "플랫폼트리"
+  }
+}
